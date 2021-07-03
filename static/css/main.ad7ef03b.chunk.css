@@ -1,0 +1,2 @@
+.navbar a{font-size:3em}.logo{display:flex;align-content:center;align-items:center}.logo>img{max-height:120px}@media (min-width:992px){.logo>img{max-height:60px}.navbar a{font-size:1em}}.accordion{display:flex;flex-direction:column;padding:5%;font-size:2em}@media (min-width:992px){.accordion{padding:7%;font-size:1em}}.footer-div{display:flex;justify-content:space-around}.footer-div p{font-size:2em}@media (min-width:992px){.footer-div p{font-size:1em}}
+/*# sourceMappingURL=main.ad7ef03b.chunk.css.map */
